@@ -17,6 +17,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -39,17 +40,36 @@ The programming questions for both the book and Leetcode consist of varying diff
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- Prerequisites -->
 ### Prerequisites
-
 The questions covered in the book are mostly coded in Java with an exception with C++. 
 However, I will be mostly coding in either Python or C++ for both the book solution and LeetCode implementations.
 
-  
+<!-- ROADMAP -->
+## Roadmap
+
+
+### Cracking the Coding Interview Roadmap
+| Concepts                                       | Code                                                                                                  | Resources |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------|
+| Big O Notation                                 | No code                                                                                               |
+| Arrays and Strings                             | No Code                                                                                                |
+| Linked Lists                                   | No Code                                                                                                 |
+| Stacks and Queue                               | No Code                                                                                                 |
+| Trees and Graphs                               | No Code                                                                                                 |
+
+### LeetCode
+|  Difficulty                                    | Code                                                                                                  | Resources |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------|
+| Easy                                           | No code                                                                                               |
+| Medium                                         | No Code                                                                                               |
+| Hard                                           | No Code                                                                                                |
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Cracking the Code Interview](https://www.crackingthecodinginterview.com/)
 * [LeetCode](https://leetcode.com/)
